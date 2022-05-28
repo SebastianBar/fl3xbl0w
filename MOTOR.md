@@ -44,4 +44,4 @@ Trying to hook an ESP32 or a CH340-based serial bridge directly to the wires bet
 
 Note: Attaching only to GND and RXD, we can "see" some apparent garbage hex information at 9600 baud. Hooking to TXD makes the treadmill base not initialize.
 
--- To be continued, a logic analyzer would be convenient at this time --
+-- To be continued, ~~a logic analyzer would be convenient at this time~~ just arrived 👀 --
